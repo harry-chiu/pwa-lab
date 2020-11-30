@@ -25,8 +25,8 @@ const App = () => {
       <GlobalStyle />
       {!isOnline && <Alert>現在是離線模式</Alert>}
       <Wrapper>
-        <Title>歡迎來到 React PWA 實驗室</Title>
-        <Description>你可以在這裡測試 PWA 的諸多功能！</Description>
+        <Title>歡迎來到 React PWA 實驗室！</Title>
+        <Description>你可以在這裡測試 PWA 的諸多功能</Description>
       </Wrapper>
       <Wrapper>
         <Card

@@ -1,0 +1,16 @@
+{
+  "short_name": "Cool App",
+  "name": "Very Cool App",
+  "icons": [
+    {
+      "src": "./onion.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    }
+  ],
+  "start_url": "/pwa-lab/?source=pwa",
+  "background_color": "#000000",
+  "theme_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/pwa-lab/"
+}
